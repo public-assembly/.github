@@ -1,4 +1,4 @@
-![Cover](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/global-assets/degree-of-separation.jpg)
+![Degree of Separation](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/global-assets/degree-of-separation.jpg)
 
 # Welcome to the Public Assembly Docs!
 
