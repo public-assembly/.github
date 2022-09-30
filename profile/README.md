@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+![Cover](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/global-assets/degree-of-separation.jpg)
 
 **Here are some ideas to get you started:**
 
