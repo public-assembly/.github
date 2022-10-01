@@ -1,6 +1,6 @@
 ![Degree of Separation](https://github.com/public-assembly/public-assembly-docs/blob/main/static/degree-of-separation.jpg)
 
-# Welcome to the Public Assembly Docs!
+# Public Assembly - Create What's Missing
 
 "What's Public Assembly?"  - [Full scope](https://ourzora.notion.site/ourzora/Public-Assembly-1243e6a5700f4d0587e63b644bff4197)
 
