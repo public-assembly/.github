@@ -2,7 +2,7 @@
 
 # Public Assembly - Create What's Missing
 
-Public Assembly](https://www.notion.so/Public-Assembly-1243e6a5700f4d0587e63b644bff4197) is a distributed collective building the missing pieces of the internet.
+[Public Assembly](https://www.notion.so/Public-Assembly-1243e6a5700f4d0587e63b644bff4197) is a distributed collective building the missing pieces of the internet.
 
 Neosound is the byproduct of Public Assembly’s first three-week sprint that involved engineering, design, and educational content creation.
 
