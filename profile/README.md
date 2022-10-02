@@ -2,14 +2,9 @@
 
 # Public Assembly - Create What's Missing
 
-"What's Public Assembly?"  - [Full scope](https://ourzora.notion.site/ourzora/Public-Assembly-1243e6a5700f4d0587e63b644bff4197)
+Public Assembly](https://www.notion.so/Public-Assembly-1243e6a5700f4d0587e63b644bff4197) is a distributed collective building the missing pieces of the internet.
 
-
-## Features
-
-- Curation protocol
-- Open-source modular package library
-- Open-source UI react hooks and audio component library
+Neosound is the byproduct of Public Assembly’s first three-week sprint that involved engineering, design, and educational content creation.
 
 ## Neosound Quick Start
 
