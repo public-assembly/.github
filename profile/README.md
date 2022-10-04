@@ -8,25 +8,25 @@ Neosound is the byproduct of Public Assembly’s first three-week sprint that in
 
 ## Neosound Quick Start
 
-- [Get started]
+- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/neosound-quick-start.md)
 
-## Guides
+## Guides [WIP]
 
-- [Getting Started with Public Assembly]
-- [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/assemble-package.md)
-- [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/wallet-setup.md)
-- [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/getting-started-with-github.md)
-- [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/vercel-setup.md)
-- [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/visual-studio-code-setup.md)
-- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/exploring-git.md)
-- [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/installing-node.md)
+- [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/assemble-package.md)
+- [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/wallet-setup.md)
+- [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/getting-started-with-github.md)
+- [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/vercel-setup.md)
+- [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/visual-studio-code-setup.md)
+- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git.md) 
+- [Exploring Git (in Terminal)](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git-locally.md) 
+- [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/installing-node.md)
 
 ## Documentation
 
-- [Curation Protocol]
-- [OS Modular Package Library]
-- [OS Modular Audio Player Library]
-- [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/glossary.md)
+- [Curation Protocol] [WIP]
+- [OS Modular Package Library] [WIP]
+- [OS Modular Audio Player Library] [WIP]
+- [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
 
 ## Communcation
 
