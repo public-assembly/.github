@@ -24,8 +24,6 @@ Neosound is the byproduct of Public Assembly’s first three-week sprint that in
 ## Documentation
 
 - [Public Curation Protocol](https://github.com/public-assembly/curation-protocol)
-- [Modular Package Library] [WIP]
-- [Audio Component Library] [WIP]
 - [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
 
 ## Communcation
