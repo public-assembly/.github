@@ -10,6 +10,10 @@ Neosound is the byproduct of Public Assembly’s first three-week sprint that in
 
 - [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/neosound-quick-start.md)
 
+## Curation Protocol Quick Start 
+
+- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/curation-protocol-quickstart)
+
 ## Guides [WIP]
 
 - [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/assemble-package.md)
@@ -23,7 +27,7 @@ Neosound is the byproduct of Public Assembly’s first three-week sprint that in
 
 ## Documentation
 
-- [Public Curation Protocol](https://github.com/public-assembly/curation-protocol)
+- [Curation Protocol](https://github.com/public-assembly/curation-protocol)
 - [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
 
 ## Communcation
