@@ -37,4 +37,3 @@ Neosound is the byproduct of Public Assembly’s first three-week sprint that in
 - [Notion](https://www.notion.so/ourzora/Neosound-working-product-title-dd4ef7e0ce8c478386ef867a5d0f7ffe)
 - [Figma](https://www.figma.com/file/IMYiNZVVJCvO9Yjn0IBe1f/~neosound~-%5Bcommunity%5D?node-id=1730%3A10991)
 
----
