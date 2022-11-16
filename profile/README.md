@@ -1,4 +1,4 @@
-![Degree of Separation](https://github.com/public-assembly/public-assembly-docs/blob/main/static/degree-of-separation.jpg)
+![Degree of Separation](https://github.com/public-assembly/public-assembly-docs/blob/main/static/1dos.jpg)
 
 # Public Assembly - Create What's Missing
 
