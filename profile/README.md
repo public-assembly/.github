@@ -4,22 +4,10 @@
 
 Create what's missing.
 
-[Public Assembly](https://www.notion.so/Public-Assembly-1243e6a5700f4d0587e63b644bff4197) is a distributed collective building the missing pieces of the internet.
+## Templates
 
-Neosound is the byproduct of Public Assembly’s first three-week sprint that involved engineering, design, and educational content creation.
-
-## Neosound Quick Start
-
-- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/neosound-quick-start.md)
-
-## Curation Protocol Quick Start 
-
-- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/curation-protocol-quickstart.md)
-
-## Documentation
-
-- [Curation Protocol](https://github.com/public-assembly/curation-protocol)
-- [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
+- [Assemble Package](https://github.com/public-assembly/assemble-package/blob/main/README.md)
+- [Caisson](https://github.com/public-assembly/caisson)
 
 ## Guides
 
@@ -32,10 +20,9 @@ Neosound is the byproduct of Public Assembly’s first three-week sprint that in
 - [Exploring Git (in Terminal)](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git-locally.md) 
 - [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/installing-node.md)
 
+## Socials
 
-## Communcation
-
+- [Discourse](https://forum.public---assembly.com/)
 - [Twitter](https://twitter.com/pblcasmbly)
-- [Notion](https://www.notion.so/ourzora/Neosound-working-product-title-dd4ef7e0ce8c478386ef867a5d0f7ffe)
-- [Figma](https://www.figma.com/file/IMYiNZVVJCvO9Yjn0IBe1f/~neosound~-%5Bcommunity%5D?node-id=1730%3A10991)
+
 
