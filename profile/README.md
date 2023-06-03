@@ -11,7 +11,6 @@ Create what's missing.
 
 ## Guides
 
-- [Using the Assemble Package Template](https://github.com/public-assembly/assemble-package/blob/main/README.md)
 - [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/wallet-setup.md)
 - [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/getting-started-with-github.md)
 - [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/vercel-setup.md)
