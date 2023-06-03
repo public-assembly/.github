@@ -9,6 +9,7 @@ Create what's missing.
 ## Templates
 
 - [Assemble Package](https://github.com/public-assembly/assemble-package/blob/main/README.md)
+- [Neosound](https://github.com/public-assembly/neosound)
 - [Caisson](https://github.com/public-assembly/caisson)
 
 ## Connect
