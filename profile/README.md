@@ -1,6 +1,8 @@
 ![Degree of Separation](https://github.com/public-assembly/public-assembly-docs/blob/main/static/1dos.jpg)
 
-# Public Assembly - Create What's Missing
+# Public Assembly
+
+Create what's missing.
 
 [Public Assembly](https://www.notion.so/Public-Assembly-1243e6a5700f4d0587e63b644bff4197) is a distributed collective building the missing pieces of the internet.
 
