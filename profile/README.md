@@ -9,12 +9,13 @@ Create what's missing.
 ## Templates
 
 - [Assemble Package](https://github.com/public-assembly/assemble-package/blob/main/README.md)
+- [Flexible](https://github.com/public-assembly/flexible)
 - [Neosound](https://github.com/public-assembly/neosound)
-- [Caisson](https://github.com/public-assembly/caisson)
+- [Caisson-Privy-Account-Kit](https://github.com/public-assembly/caisson-privy-account-kit)
 
 ## Connect
 
-- [Discourse](https://forum.public---assembly.com/)
+- [Discord](https://discord.gg/HaUcVDexXQ)
 - [Twitter](https://twitter.com/pblcasmbly)
 - [Website](https://www.public---assembly.com/)
 - [Proposals](https://www.flexible.works/proposals)
